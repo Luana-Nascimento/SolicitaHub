@@ -9,3 +9,6 @@ Portal centralizado para solicitações internas (chamados) e gestão de demanda
 - Autenticação: JWT
 - Swagger para Documentação
 - Docker para orquestração local
+
+## Board
+https://trello.com/b/vBE3zdde/solicita-hub
